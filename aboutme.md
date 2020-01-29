@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-#Credo
+# Credo
 
 > In a world full of blind people, one-eyed is king - Iliad
 
